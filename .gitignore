@@ -1,1 +1,6 @@
+archive
 node_modules
+*.iml
+dist/
+.idea/
+.DS_Store
