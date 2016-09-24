@@ -1,0 +1,16 @@
+{
+  "name": "widevine-license-acquirer",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Erik Peña"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.erikthe.red/",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.x",
+    "uikit": "^2.27.1",
+    "dash-js": "^2.3.0"
+  }
+}
